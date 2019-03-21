@@ -21,7 +21,7 @@ $(".Spell3").click(function(){
  
 });
 $(".disappear").click(function(){
-    $("img").delay("5").slideToggle();
+    $("img").delay("5000").slideToggle();
  
 });
 
